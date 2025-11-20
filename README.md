@@ -1,4 +1,6 @@
 # Job Tracker Dashboard
+<img width="1882" height="871" alt="image" src="https://github.com/user-attachments/assets/5a6bf42b-8cbf-42c8-a530-1362a4f6e2a0" />
+
 
 A full-stack web application to track job applications with SQL database normalization, advanced queries, and a beautiful React dashboard with charts and filtering capabilities.
 
